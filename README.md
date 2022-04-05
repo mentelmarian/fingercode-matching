@@ -1,5 +1,6 @@
 # fingercode-matching
 Fingerprint matching based on the fingercodes.
+This repository is part of my master degree thesis at "Sapienza Univesità di Roma" in computer engineering.
 
 ## Fingercode extraction
 
