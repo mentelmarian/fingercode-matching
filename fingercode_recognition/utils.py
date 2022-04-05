@@ -3,7 +3,8 @@
 """
 Created on Tue Apr  5 12:59:21 2022
 
-@author: marian
+@author: 
+    Marian Leonard Mentel
 """
 
 import os
