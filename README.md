@@ -12,3 +12,4 @@ You will find the .zip folder already containing all the fingercodes extracted f
 ## Fingercode recognition
 
 In this folder you will find a brief Jupiter notebook; it will use the content of *train* and *test* folders to perform an identification scenario.
+The matching is done using the Euclidean distance among the fingercodes.
